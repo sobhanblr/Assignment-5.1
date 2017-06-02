@@ -8,4 +8,4 @@ Show Blinking animation on TextView
 Blinking animation displayed in app on TextView
 
 
-README, Screenshot of output, Apk file and Source Code is uploaded in Jit
+README, Screenshot of output, Apk file and Source Code is uploaded in git
